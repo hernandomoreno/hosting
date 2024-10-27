@@ -1,0 +1,17 @@
+
+.iconos{
+  display: flex;
+  align-items: center;
+  padding-top: 10px;
+}
+
+.altop{
+    text-align: justify;
+    height: 109px;
+    overflow: hidden;
+}
+
+.custom-toast {
+  background-color: #00ff66; /* Cambia el color aquí */
+  color: rgb(11, 1, 1);
+}
