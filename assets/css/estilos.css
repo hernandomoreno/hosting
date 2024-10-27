@@ -1,0 +1,13 @@
+
+.iconos{
+  display: flex;
+  align-items: center;
+  padding-top: 10px;
+}
+
+.altop{
+    text-align: justify;
+    height: 109px;
+    overflow: hidden;
+}
+
